@@ -29,12 +29,12 @@ body {
   align-items: center;
   justify-content: space-around;
   font-size: 20rem;
-  padding:2rem;
+  padding: 2rem;
 }
 .num1,
 .num2 {
-  font-size: 3rem;
-  padding: 3rem 10rem;
+  font-size: 4rem;
+  padding: 2rem 8rem;
   border: 1.5rem solid var(--color--primary--green);
 }
 .num2 {
@@ -42,7 +42,7 @@ body {
 }
 .form {
   display: flex;
-  width: 40%;
+  width: 50%;
   align-items: center;
   justify-content: space-between;
 }
