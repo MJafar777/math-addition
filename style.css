@@ -47,7 +47,7 @@ body {
 .answer {
   width: 45rem;
   height: 10rem;
-  font-size: 5rem;
+  font-size: 4rem;
   box-sizing: border-box;
   padding-left: 1rem;
   border: 1rem solid var(--color--primary--blue-aqua);
@@ -57,7 +57,7 @@ body {
   height: 10rem;
   box-sizing: border-box;
   border: none;
-  font-size: 5rem;
+  font-size: 4rem;
   color: var(--color--primary--white);
   background-color: var(--color--primary--red);
 }
