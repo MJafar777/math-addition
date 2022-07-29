@@ -29,6 +29,7 @@ body {
   align-items: center;
   justify-content: space-around;
   font-size: 20rem;
+  padding:2rem;
 }
 .num1,
 .num2 {
