@@ -32,6 +32,7 @@ body {
 }
 .num1,
 .num2 {
+  font-size: 3rem;
   padding: 3rem 10rem;
   border: 1.5rem solid var(--color--primary--green);
 }
